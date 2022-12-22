@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
   margin: 0;
+  min-height: 100px;
 }
 
 h2,
@@ -15,6 +16,7 @@ p {
 .wrapper {
   max-width: 1200px;
   background-color: aquamarine;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
